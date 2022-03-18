@@ -68,7 +68,7 @@ a:hover{
     margin-top: 25px;
     background-size: cover;
     background-repeat: no-repeat;
-    display: block;
+    display: inline;
     text-align: center;
     justify-content: center;
     align-items: center;
